@@ -1,9 +1,9 @@
 class Comodo:
 
     # Propriedades privadas (__x) que só são acessadas pelos Getters e Setters
-    __largura:float
-    __profundidade:float
-    __altura:float
+    #__largura:float
+    #__profundidade:float
+    #__altura:float
 
     # Construtor
     def __init__(self, largura, profundidade):
